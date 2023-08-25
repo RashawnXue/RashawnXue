@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**RashawnXue/RashawnXue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I' m **RashawnXue**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I’m currently studying in [Software Institute, Nanjing University](https://software.nju.edu.cn/)
+- 📟 I’m currently learning **Software Engnieering**
+- 🥰 I' m currently interested in [Spring](https://spring.io/)
+- 📧 How to reach me: [ruichenxue@smail.nju.edu.cn](mailto:ruichenxue@smail.nju.edu.cn)
+- 🍀 My personal blog: this [page](https://rashawnxue.github.io)
+
+## My Github Stats
+
+![RashawnXue's GitHub stats](https://github-readme-stats-repo-ten.vercel.app/api?username=RashawnXue&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats-repo-ten.vercel.app/api/top-langs/?username=RashawnXue&layout=donut&theme=dracula)](https://github.com/RashawnXue/github-readme-stats)
