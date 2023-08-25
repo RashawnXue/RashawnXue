@@ -12,6 +12,5 @@ I' m **RashawnXue**.
 
 ## My Github Stats
 
-![RashawnXue's GitHub stats](https://github-readme-stats-repo-ten.vercel.app/api?username=RashawnXue&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats-repo-ten.vercel.app/api/top-langs/?username=RashawnXue&layout=donut&theme=dracula)](https://github.com/RashawnXue/github-readme-stats)
+| ![RashawnXue's GitHub stats](https://github-readme-stats-repo-ten.vercel.app/api?username=RashawnXue&show_icons=true&theme=dracula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)|
+|-------------|------------|
