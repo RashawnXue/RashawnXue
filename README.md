@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RashawnXue</h1>
+<h1 align="center">Hi 👋, I'm Rashawn</h1>
 
 ## About Me
 - 🏢 I’m currently studying in [Software Institute, Nanjing University](https://software.nju.edu.cn/)
