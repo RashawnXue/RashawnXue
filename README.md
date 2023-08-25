@@ -5,7 +5,7 @@
 I' m **RashawnXue**.
 
 - 🏢 I’m currently studying in [Software Institute, Nanjing University](https://software.nju.edu.cn/)
-- 📟 I’m currently learning **Software Engnieering**
+- 📟 I’m currently majoring in **Software Engnieering**
 - 🥰 I' m currently interested in [Spring](https://spring.io/)
 - 📧 How to reach me: [ruichenxue@smail.nju.edu.cn](mailto:ruichenxue@smail.nju.edu.cn)
 - 🍀 My personal blog: this [page](https://rashawnxue.github.io)
